@@ -1,0 +1,210 @@
+@media only screen and (max-width: 380px){
+    .navbar-nav .nav-item{
+	padding: 0px;
+}
+    .image-position{
+    position: absolute;
+    top: 30px;
+    left:0px !important;
+        padding: 20px;
+   }
+    .button-sizing{
+    background-color: aqua;
+    font-family: 'Dosis', sans-serif;
+    margin-bottom: 10px;
+}
+    hr{
+       margin-left: 35%;
+    }
+    .get-phone img{
+    height: 420px;
+    width: 200px;
+    transform: skewY(20deg);
+        margin-left: 50px !important;
+    
+}
+    .code-text{
+    padding: 40px 30px 20px 0px;
+}
+    .code-text .btn{
+    background-color: aqua;
+    height: 40px;
+    width: 200px;
+    color: navy;
+    border: none;
+   
+    margin-left: 30%!important;
+}
+    .code-text h3,p{
+        padding-right: 0px;
+    }
+    .code-text p{
+         padding-right: 0px;
+    }
+   #accordion{
+    padding-top: 410px;
+    margin-top:0px !important;
+}
+    
+    /*Avilable section*/
+    .avilable-section .container{
+    position: relative;
+    
+}
+
+.first-image{
+    position: relative;
+    
+    
+}
+
+
+.first-image img{
+    position: relative;
+    height: 300px;
+    width: 200px;
+    z-index: 9;
+}
+
+.second-image img{
+    position: absolute;
+    height: 250px;
+    width: 150px;
+    left: 9rem;
+    bottom: 1rem;
+}
+.avilable-text{
+    padding-top: 20px
+}
+    footer-socail a{
+    float: left;
+    font-size: 30px;
+    color: white;
+    
+}
+.socail{
+    text-align: center !important;
+    font-size: 20px !important ;
+    color: white;
+    padding: 10px 20px;
+    margin: 0;
+}
+    .footer-text{
+        text-align: center;
+    }  
+    
+    .bttn .btn {
+    position: absolute;
+    background-color: aqua;
+    bottom: -15px;
+    margin-right: 0px 40px;
+    text-align: center;
+        display: none;
+        
+}
+    .coding-section{
+    margin-top: px;
+}
+    .code-text {
+    padding: 0px 30px 20px 0px;
+}
+    .company-section h4{
+        font-size: 20px;
+    }  
+    hr {
+    background-color: aqua;
+    height: 3px;
+    width: 100px;
+    margin-left: 33% !important;
+    margin-top: 30px;
+}
+}
+
+@media only screen and (max-width: 480px) {
+  .banner-text{
+    padding-top: 100px;
+    padding-left: 20px;
+    
+   }
+    .banner-section
+    {
+    background-color: #223047;
+    height: 1000px;
+    
+   }
+    .image-position{
+    position: absolute;
+    top: 30px;
+    left:100px;
+   }
+    .get-phone img{
+    height: 420px;
+    width: 200px;
+    transform: skewY(20deg);
+    
+}
+    .get-text p{
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+    
+    padding: 30px 20px;
+   
+    
+}
+    .get-text h3{
+     font-family: 'Dosis', sans-serif;
+    font-size: 30px;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+    
+     .code-text .btn{
+    background-color: aqua;
+    height: 40px;
+    width: 200px;
+    color: navy;
+    border: none;
+   
+    margin-left: 50%
+}
+    .code-text h3{
+        margin-right: 0px;
+        padding-right: 0px;
+        text-align: right;
+    }
+    .code-text p{
+         padding-right: 0px;
+    }
+    .get-text h3 {
+    font-family: 'Dosis', sans-serif;
+    font-size: 30px;
+    padding-top: 100px;
+    padding-left: 20px;
+
+    }
+    
+    #accordion{
+    padding-top: 410px;
+    margin-top:0px !important;
+}
+
+}
+
+@media only screen and (max-width: 768px) {
+ 
+    .banner-section
+    {
+    background-color: #223047;
+    height: 1200px;
+    
+   }
+    .image-position{
+    position: absolute;
+    top: 30px;
+    left:100px;
+   }
+    #accordion{
+    padding-top: 410px;
+    margin-top:0px !important;
+}
+}
